@@ -1,9 +1,7 @@
 <project>
-
 <artifactId>maven</artifactId>
-<groupId>dvrinfra.com</groupId>
+<groupId>org.maha</groupId>
 <modelVersion>4.0.0</modelVersion>
-<version>1.0-SNAPSHOT</version>
-<packing>jar</packing>
-
+<version>1.0</version>
+<packaging>jar</packaginging>
 </project>
